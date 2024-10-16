@@ -1,0 +1,5 @@
+.vscode
+Output/*.i
+Output/*.obj
+Output/*.m51
+Output/*.lst

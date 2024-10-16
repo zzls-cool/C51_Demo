@@ -1,0 +1,9 @@
+".\Output\main.obj",
+".\Output\uart.obj",
+".\Output\i2c.obj",
+".\Output\spi.obj",
+".\Output\lcd1602.obj",
+".\Output\ds1302.obj",
+".\Output\eeprom.obj" 
+TO ".\Output\C51_Tutorial" 
+PRINT(".\Output\C51_Tutorial.m51") RAMSIZE(256) 
